@@ -5,7 +5,8 @@
 
 ## 📸 Preview
 
-![FoodCart Screenshot](https://user-images.githubusercontent.com/your-github-username/foodcart-demo.png)
+![Screenshot (580)](https://github.com/user-attachments/assets/b3ba7bff-e1a8-459d-a91a-502ef949505e)
+
 
 ## ✨ Features
 
